@@ -6,8 +6,6 @@
 
 [Открыть сайт](https://8x9dmf5bb9-oss.github.io/cosmoverse/)
 
-![Demo](https://via.placeholder.com/800x450/04030f/7c3aed?text=COSMOVERSE+Preview)
-
 ## ✨ Особенности
 
 - **Полностью интерактивный** космический интерфейс
